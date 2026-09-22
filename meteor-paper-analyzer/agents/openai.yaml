@@ -1,0 +1,3 @@
+interface:
+  display_name: "Meteor Paper Analyzer"
+  short_description: "Explain papers accessibly with a rigorous Q1-Q7 analysis and worked example."
